@@ -5,18 +5,19 @@
 </p>
 
 <p align="center">
-  <b>by soliere</b> | ik but join  discord.gg/RrwRcvgFE8
+  <b>by soliere</b> | ik but join <a href="https://discord.gg/RrwRcvgFE8">💬 discord.gg/RrwRcvgFE8</a>
 </p>
 
 ---
 
 ## 💡 Sobre
 
-.gws é um script em Lua desenvolvido por soliere com foco em leveza, estilo e funcionalidade.  
-Ideal pra quem quer performance sem abrir mão do swag.
+.gws é um script em Lua criado por soliere.  
+Simples, direto ao ponto e feito pra quem sabe o que tá fazendo.  
+Mais no Discord: [💬 discord.gg/RrwRcvgFE8](https://discord.gg/RrwRcvgFE8)
 
 ## 🚀 Como usar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/soliere/.gws
+   (vou colocar um raw aqui)
