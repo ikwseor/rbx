@@ -15,7 +15,7 @@
 
 ## 💡 Guide
 
-.gws is a Lua script for espname and view.  
+soliere | .gws - is one of the Lua scripts for espname and view, etc. 
 The user is automatically detected on execution.  
 Simple and straightforward, designed to make these features easier.  
 Join the community on [Discord](https://discord.gg/RrwRcvgFE8).
