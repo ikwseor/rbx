@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>by soliere</b> | Projeto em Lua feito pra quem manja dos paranauê.
+  <b>by soliere</b> | ik but join  discord.gg/RrwRcvgFE8
 </p>
 
 ---
