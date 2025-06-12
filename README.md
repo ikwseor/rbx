@@ -16,9 +16,9 @@
 ## 💡 __Guide__
 
 **soliere | .gws** - *is one of the lua scripts for espname and view, etc.*
-*your user is automatically detected at runtime, but we will not do anything with this information.*  
-*Simple and straightforward, designed to make these features easier.  *
-*Join the community on [Discord](https://discord.gg/RrwRcvgFE8).*
+your user is automatically detected at runtime, but we will not do anything with this information.* 
+Simple and straightforward, designed to make these features easier.*
+Join the community on [Discord](https://discord.gg/RrwRcvgFE8).*
 
 ## 🚀 __Use__
 
