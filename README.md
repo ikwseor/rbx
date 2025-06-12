@@ -1,11 +1,11 @@
 <h1 align="center">.gws</h1>
 
 <p align="center">
-  <img src="https://imgur.com/rU1HyW5.png" alt=".gws banner">
+  <img src="https://imgur.com/rU1HyW5.png" alt=".gws banner" />
 </p>
 
 <p align="center">
-  <b>by soliere</b><br>
+  <b>by soliere</b><br />
   <a href="https://discord.gg/RrwRcvgFE8">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord" alt="Join Discord" />
   </a>
@@ -17,10 +17,11 @@
 
 .gws is a Lua script for espname and view.  
 The user is automatically detected on execution.  
-Simple and straightforward, designed to make these features easier. [discord](https://discord.gg/RrwRcvgFE8)
+Simple and straightforward, designed to make these features easier.  
+Join the community on [Discord](https://discord.gg/RrwRcvgFE8).
 
 ## 🚀 Use
 
-1. Inject and  execute in your executor:
+1. Inject and execute in your executor:
    ```lua
    (vou colocar um raw aqui)
