@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <b>by soliere</b> | ik but join <a href="https://discord.gg/RrwRcvgFE8">💬 discord.gg/RrwRcvgFE8</a>
+  <b>by soliere</b><br>
+  <a href="https://discord.gg/RrwRcvgFE8">
+    <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord" alt="Join Discord" />
+  </a>
 </p>
 
 ---
@@ -14,10 +17,10 @@
 
 .gws é um script em Lua criado por soliere.  
 Simples, direto ao ponto e feito pra quem sabe o que tá fazendo.  
-Mais no Discord: [💬 discord.gg/RrwRcvgFE8](https://discord.gg/RrwRcvgFE8)
+Mais no Discord: [discord.gg/RrwRcvgFE8](https://discord.gg/RrwRcvgFE8)
 
 ## 🚀 Como usar
 
 1. Injete e execute em seu executor:
-   ```bash
+   ```lua
    (vou colocar um raw aqui)
