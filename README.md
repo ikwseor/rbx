@@ -13,14 +13,14 @@
 
 ---
 
-## 💡 Sobre
+## 💡 Guide
 
-.gws é um script em Lua criado por soliere.  
-Simples, direto ao ponto e feito pra quem sabe o que tá fazendo.  
-Mais no Discord: [discord.gg/RrwRcvgFE8](https://discord.gg/RrwRcvgFE8)
+.gws is a Lua script for espname and view.  
+The user is automatically detected on execution.  
+Simple and straightforward, designed to make these features easier. [discord](https://discord.gg/RrwRcvgFE8)
 
-## 🚀 Como usar
+## 🚀 Use
 
-1. Injete e execute em seu executor:
+1. Inject and  execute in your executor:
    ```lua
    (vou colocar um raw aqui)
