@@ -13,14 +13,14 @@
 
 ---
 
-## 💡 Guide
+## 💡 __Guide__
 
-soliere | .gws - is one of the Lua scripts for espname and view, etc. 
+**soliere | .gws** - is one of the Lua scripts for espname and view, etc. 
 The user is automatically detected on execution.  
 Simple and straightforward, designed to make these features easier.  
 Join the community on [Discord](https://discord.gg/RrwRcvgFE8).
 
-## 🚀 Use
+## 🚀 __Use__
 
 1. Inject and execute in your executor:
    ```lua
