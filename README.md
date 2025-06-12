@@ -18,6 +18,6 @@ Mais no Discord: [💬 discord.gg/RrwRcvgFE8](https://discord.gg/RrwRcvgFE8)
 
 ## 🚀 Como usar
 
-1. Clone o repositório:
+1. Injete e execute em seu executor:
    ```bash
    (vou colocar um raw aqui)
